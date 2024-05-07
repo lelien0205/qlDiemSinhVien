@@ -1,0 +1,63 @@
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\bin\Debug\2_HTTThaoNTVanNTTMai_LTNET.exe.config
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\bin\Debug\2_HTTThaoNTVanNTTMai_LTNET.exe
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\bin\Debug\2_HTTThaoNTVanNTTMai_LTNET.pdb
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.csproj.AssemblyReference.cache
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.Properties.Resources.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.csproj.GenerateResource.cache
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.csproj.CoreCompileInputs.cache
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.exe
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.pdb
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatlophoc.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatkhoa.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_diemquatrinh.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatlophocphan.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.danhsachlophocphan.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyLopHocPhan.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_diemthi.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_diemtrungbinh.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyDiem.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyKhoa.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyLopHoc.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatdiem.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLySinhVien.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatsinhvien.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyMonHoc.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatmonhoc.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyGiaoVien.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatgiaovien.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.Dangnhap.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyNguoiDung.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatnguoidung.resources
+E:\1.Thao\Baitap LAP .NET\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.menu.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\bin\Debug\2_HTTThaoNTVanNTTMai_LTNET.exe.config
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\bin\Debug\2_HTTThaoNTVanNTTMai_LTNET.exe
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\bin\Debug\2_HTTThaoNTVanNTTMai_LTNET.pdb
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.csproj.AssemblyReference.cache
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.csproj.SuggestedBindingRedirects.cache
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatdiem.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatgiaovien.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatkhoa.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatlophoc.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatlophocphan.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatmonhoc.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatnguoidung.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.capnhatsinhvien.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.Dangnhap.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.danhsachlophocphan.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_diemquatrinh.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_diemthi.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_diemtrungbinh.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyDiem.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyGiaoVien.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyKhoa.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyLopHocPhan.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyLopHoc.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyMonHoc.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLyNguoiDung.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.frm_QuanLySinhVien.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.menu.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\_2_HTTThaoNTVanNTTMai_LTNET.Properties.Resources.resources
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.csproj.GenerateResource.cache
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.csproj.CoreCompileInputs.cache
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.exe
+E:\nhóm 4_Quản lý sinh viên\2_HTTThaoNTVanNTTMai_LTNET\2_HTTThaoNTVanNTTMai_LTNET\obj\Debug\2_HTTThaoNTVanNTTMai_LTNET.pdb
